@@ -1,4 +1,4 @@
-Here's the gist of it: This brand is pretty hit or miss with the quality of their shirts, but their practices and "support" are sketchy at best.
+Here's the gist of it: This brand is pretty hit or miss with the quality of their shirts, but the lack of negative reviews on their moderated review section and "support" are sketchy at best.
 
 ![Header, all my sirts](20180329_202227.jpg)
 
@@ -49,6 +49,8 @@ Here is one of those invitations I took in early March:
 ![distorted visage review invitation](distorted-visage-review-proof.png)
 And here is the reviews page:
 ![distorted visage review page](distorted-visage-reviews.png)
+
+I have also tried to post reviews to their Facebook page, and posted comments pointing out that their quality is hit or miss, but always get my comments deleted from their page. Since they aren't listed as a merchant on Facebook, there is no review section there so there is no direct way to rate them in a way they can't control.
 
 
 ## Conclusions
