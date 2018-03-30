@@ -42,9 +42,19 @@ Notice how it is blurry like the Vaporcamo shirt.
 ![moodring 2](20180329_201841.jpg)
 ![moodring 3](20180329_201848.jpg)
 
+### Sketchy review process
+If you take a look on the vapor95 site, they have added reviews, sometime likely in late October or early November. However, you will not see a single review under 4 stars on the site, because they filter through the reviews before they post them. I posted a 3 star review and some others on products I purchased after receiving an invitation to do so by mail, but after posting my reviews they did not show up, even after some months of time has passed. This is very suspicious, especially as they are allowed to pick and choose what reviews show up.
+
+Here is one of those invitations I took in early March:
+![distorted visage review invitation](distorted-visage-review-proof.png)
+And here is the reviews page:
+![distorted visage review page](distorted-visage-reviews.png)
+
 
 ## Conclusions
-Overall, vapor95 has some good clothing, but the quality is very hit or miss, and with a 3 week wait time and no returns, it's just too risky for me. I have been trying out other sites such as [publicspace.xyz](https://www.publicspace.xyz/) and [cool shirtz](https://shirtz.cool/) in the meantime. I bought the [VHSMax Onesie](https://www.publicspace.xyz/collections/onesies/products/onesie-limited-release-1-of-101) from publicspace, and found the quality of the print to be fantastic. It is a bit tight, though, so order a size larger than you normally wear. I just wish they made it with knee pads and kevlar lining so I could wear it to the track on my motorcycle. As for cool shirtz, I love their stickers, and have ordered the [Alone](https://shirtz.cool/collections/frontpage/products/the-alone-tee?variant=36455483274) and [Meadow](https://shirtz.cool/collections/frontpage/products/the-meadow-tee?variant=36621467210) full print tees. The polyester isn't as thin as the vapor95 shirts because they have 10% cotton content, and the quality is very sharp and they look great. For these, definitely order your size or one size down though, otherwise it's like wearing a dress!
+Overall, vapor95 has some good clothing, but the quality is very hit or miss, and with a 3 week wait time and no returns, it's just too risky for me. The lack of any negative reviews is also concerning, especially because those are usually more common than good reviews even on good products. People are more likely to complain than praise. This combined with their support practices and return policy makes them a solid "miss" for me, and I won't be buying any more clothing from them until they get this stuff sorted out. 
+
+If you have a craving for aestheticware like I do, I have been trying out other sites such as [publicspace.xyz](https://www.publicspace.xyz/) and [cool shirtz](https://shirtz.cool/) as alternatives. I bought the [VHSMax Onesie](https://www.publicspace.xyz/collections/onesies/products/onesie-limited-release-1-of-101) from publicspace, and found the quality of the print to be fantastic. It is a bit tight, though, so order a size larger than you normally wear. I just wish they made it with knee pads and kevlar lining so I could wear it to the track on my motorcycle. As for cool shirtz, I love their stickers, and have ordered the [Alone](https://shirtz.cool/collections/frontpage/products/the-alone-tee?variant=36455483274) and [Meadow](https://shirtz.cool/collections/frontpage/products/the-meadow-tee?variant=36621467210) full print tees. The polyester isn't as thin as the vapor95 shirts because they have 10% cotton content, and the quality is very sharp and they look great. For these, definitely order your size or one size down though, otherwise it's like wearing a dress!
 
 
 
