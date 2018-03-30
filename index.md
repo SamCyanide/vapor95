@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+Here's the gist of it: This brand is pretty hit or miss with the quality of their shirts, but their practices and "support" are sketchy at best.
 
-You can use the [editor on GitHub](https://github.com/SamCyanide/vapor95/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Header, all my sirts](20180329_202227.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Onto the review...
 
-### Markdown
+Back in 2017 I purchased a _lot_ of vaporwave-style aesthetic clothing. One of the first brands I purchased was Vapor95. I have made 3 orders with them, totalling over $300. I gave some of the clothing as gifts, and pointed them out some friends who have also spent combined hundreds on the site. This was before I got my order though. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Order 1, Early September, 2017
+![Order 1](order-1.png)
+My first order was quite ambitious having never bought from them before, and not being able to find any reviews. Overall, the shirts were okay, but the polyester content made them stretchy and a bit thin. The quality is nowhere near what the price is. The hoodies are extremely thin for $70-$80 and the zippers are a cheap chrome-plastic. However, the Distorted Visage hoodie did look quite good despite not being super functional. The Lunchbox, Oasis and Aquanaut tees looked good as well, but again they are quite thin, and I am not sure if they are worth $37 each (more like $25 or so, I would say). This, on top of the several weeks it takes for the order to go through is a bit odd. I say this, because they claim all their shirts are made to order. If this were the case, why do we get tragedies like the **Vaporcamo shirt**. The Vaporcamo shirt, oh boy. This thing is extremely blurry, a fact you can't see in the photos on their website.
 
-```markdown
-Syntax highlighted code block
+Check it out:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamCyanide/vapor95/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
